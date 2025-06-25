@@ -1,5 +1,14 @@
-# Iran Internet Shutdown – June 2025  
-A comprehensive technical and data-driven analysis of the nationwide blackout and the deployment of Iran's "Great Firewall" during the June 2025 conflict.
+<table>
+  <tr>
+    <td width="300">
+      <img src="data/Jun 26, 2025, 02_57_49 AM.png" alt="Iran Internet Shutdown Cover" width="100%">
+    </td>
+    <td>
+      <h1>Iran Internet Shutdown – June 2025</h1>
+      <p>A comprehensive technical and data-driven analysis of the nationwide blackout and the deployment of Iran's "Great Firewall" during the June 2025 conflict.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
