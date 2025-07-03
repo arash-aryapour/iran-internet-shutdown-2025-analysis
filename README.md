@@ -1,14 +1,23 @@
-<table>
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> &nbsp;|&nbsp;
+  <a href="README.fa.md">🇮🇷 فارسی</a> &nbsp;|&nbsp;
+  <a href="README.zh.md">🇨🇳 中文</a>
+</p>
+
+<br/>
+
+<table align="center">
   <tr>
-    <td width="300">
+    <td width="300" align="center" valign="middle">
       <img src="data/Jun 26, 2025, 02_57_49 AM.png" alt="Iran Internet Shutdown Cover" width="100%">
     </td>
-    <td>
+    <td valign="middle" style="padding-left: 20px;">
       <h1>Iran Internet Shutdown – June 2025</h1>
       <p>A comprehensive technical and data-driven analysis of the nationwide blackout and the deployment of Iran's "Great Firewall" during the June 2025 conflict.</p>
     </td>
   </tr>
 </table>
+
 
 ---
 
