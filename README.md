@@ -1,8 +1,9 @@
-<p align="center">
-  <a href="README.md">🇬🇧 English</a> &nbsp;|&nbsp;
-  <a href="README.fa.md">🇮🇷 فارسی</a> &nbsp;|&nbsp;
-  <a href="README.zh.md">🇨🇳 中文</a>
-</p>
+<div align="center">
+
+[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md) | [🇨🇳 中文](README.zh.md) | [🇩🇪 Deutsch](README.de.md)
+
+</div>
+
 
 <br/>
 
@@ -35,8 +36,10 @@ This repository provides a detailed report on the Iranian internet shutdown duri
 ## 📂 File Structure
 
 ```
-iran-internet-shutdown-2025-analysis/
 ├── README.md ← This file
+├── README.fa.md ← Persian translation
+├── README.zh.md ← Chinese translation
+├── README.de.md ← German translation
 ├── report.md ← Full article with sources, charts, and analysis
 ├── LICENSE ← MIT License
 └── data/
